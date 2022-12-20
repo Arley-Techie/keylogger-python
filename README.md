@@ -96,7 +96,7 @@ os.system("<filename>")
 
 \****This is only for Educational Purpose****
 
-[========]
+
 
 **Author: Arley-Techie**
 
